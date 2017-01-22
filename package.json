@@ -1,0 +1,19 @@
+{
+  "name": "my-first-rest-server",
+  "version": "0.1.0",
+  "description": "My first rest server using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayrex/my-first-rest-server.git"
+  },
+  "author": "Wayrex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayrex/my-first-rest-server/issues"
+  },
+  "homepage": "https://github.com/wayrex/my-first-rest-server#readme"
+}
